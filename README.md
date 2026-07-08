@@ -219,7 +219,7 @@ LIMIT 10;
 
 GitHub: https://github.com/misingh27
 
-LinkedIn: *(Add your LinkedIn profile URL here)*
+LinkedIn: www.linkedin.com/in/mitali-singh-b5b646226
 
 ---
 
